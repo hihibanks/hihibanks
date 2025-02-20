@@ -2,7 +2,7 @@
 - 👀 Estou intnressada em programção 
 - 🌱 atualmente estou aprendendo HTML,CSS,e JAVAscript
 - 💞️ Estou procurando colaboradores em Programação 
-- 📫 How to reach me: instagram - @hihibanks_oficial
+- 📫 How to reach me: instagram @hihibanks_oficial
 - ⚡ Curiosidade: Iniciante do 0%
 
 <!---
